@@ -7,3 +7,4 @@ Completed Labs for Tomi Kalejaiye
 4. [Lab 4: Paper Displays](https://github.com/TomiKalejaiye/IDD-Fa19-Lab4)
 5. [Lab 5: Jack In A Box](https://github.com/TomiKalejaiye/IDD-Fa19-Lab5)
 6. [Lab 6: ChatBot](https://github.com/TomiKalejaiye/IDD-Fa19-Lab6)
+7. [Lab 7: Video Doorbell](https://github.com/TomiKalejaiye/IDD-Fa19-Lab7)
